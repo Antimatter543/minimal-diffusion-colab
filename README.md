@@ -6,7 +6,7 @@ Minimal colab that gets you generating stable diffusion images in one colab clic
 
 This notebook is heavily inspired from https://github.com/camenduru/stable-diffusion-webui-colab/. As in, literally just edited one of their colabs to my liking and to understand what was going on, and I like having multiple models in one colab.
 
-Here's a complementary video:
+Here's a complementary video with astounding quality and an incredibly well crafted thumbnail (just look at that amazing font!)
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ASRBvmgVicU/0.jpg)](https://www.youtube.com/watch?v=ASRBvmgVicU)
